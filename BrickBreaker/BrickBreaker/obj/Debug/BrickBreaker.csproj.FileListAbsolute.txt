@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe.config
+C:\Users\lenovo\source\repos\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe
+C:\Users\lenovo\source\repos\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.pdb
+C:\Users\lenovo\source\repos\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.Form1.resources
+C:\Users\lenovo\source\repos\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.Properties.Resources.resources
+C:\Users\lenovo\source\repos\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.exe
+C:\Users\lenovo\source\repos\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.pdb
